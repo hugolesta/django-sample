@@ -1,5 +1,5 @@
 # Use the official Python image as base
-FROM python:3.9-alpine
+FROM python:3.9-alpine3.13
 
 # Set environment variables
 ENV PYTHONUNBUFFERED 1
